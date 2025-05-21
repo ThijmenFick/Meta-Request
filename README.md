@@ -1,0 +1,1 @@
+![Meta-Request Logo](https://github.com/ThijmenFick/Meta-Request/blob/main/logo.png)
