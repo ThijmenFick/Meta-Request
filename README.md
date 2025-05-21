@@ -5,3 +5,6 @@
 
 ---
 
+## Syntax
+
+**register_seed** || ?encrypted_name={ hash }&status={ alive/dead }
